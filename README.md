@@ -51,7 +51,7 @@ Dataset ini disusun untuk memenuhi **Ujian Tengah Semester (UTS) Ganjil 2026/202
 | :--- | :--- |
 | **Mata Kuliah** | Temu Kembali Informasi (TKI) / *Information Retrieval* |
 | **Dosen Pengampu** | Galih W. W |
-| **Semester / Kelas** | Ganjil 2026/2027 — Semester 7 / Kelas A, D |
+| **Semester / Kelas** | Ganjil 2026/2027 — Semester 7 / Kelas A |
 | **Nama & NIM Anggota 1** | **Muhammad Althof Taqiyyuddin** (`202310370311023`) |
 | **Lembaga Peradilan Terpilih** | **Pengadilan Negeri Bengkalis (`PN Bengkalis`)** |
 | **Kode Repositori** | `Dataset-Narkotika_023` |
